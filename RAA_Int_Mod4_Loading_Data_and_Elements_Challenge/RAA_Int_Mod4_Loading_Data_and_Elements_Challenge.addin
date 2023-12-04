@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>RAA_Int_Mod4_Loading_Data_and_Elements_Challenge - Command 1</Text>
+    <Description>Some description for RAA_Int_Mod4_Loading_Data_and_Elements_Challenge</Description>
+    <Assembly>RAA_Int_Mod4_Loading_Data_and_Elements_Challenge.dll</Assembly>
+    <FullClassName>RAA_Int_Mod4_Loading_Data_and_Elements_Challenge.Command1</FullClassName>
+    <ClientId>56dcf098-84d8-451d-ad69-341f8013c2d8</ClientId>
+    <VendorId>com.PEC</VendorId>
+    <VendorDescription>PEC, https://help.pec1.com/support/tickets/new</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>RAA_Int_Mod4_Loading_Data_and_Elements_Challenge - Command 2</Text>
+    <Description>Some description for RAA_Int_Mod4_Loading_Data_and_Elements_Challenge</Description>
+    <Assembly>RAA_Int_Mod4_Loading_Data_and_Elements_Challenge.dll</Assembly>
+    <FullClassName>RAA_Int_Mod4_Loading_Data_and_Elements_Challenge.Command2</FullClassName>
+    <ClientId>b13421a1-ca52-461a-a016-1c6b5fa15099</ClientId>
+    <VendorId>com.PEC</VendorId>
+    <VendorDescription>PEC, https://help.pec1.com/support/tickets/new</VendorDescription>
+  </AddIn>
+	<AddIn Type="Command">
+		<Text>RAA_Int_Mod4_Loading_Data_and_Elements_Challenge - Command 3</Text>
+		<Description>Some description for RAA_Int_Mod4_Loading_Data_and_Elements_Challenge</Description>
+		<Assembly>RAA_Int_Mod4_Loading_Data_and_Elements_Challenge.dll</Assembly>
+		<FullClassName>RAA_Int_Mod4_Loading_Data_and_Elements_Challenge.Command3</FullClassName>
+		<ClientId>E1B68D61-6269-453B-9E61-BC0CD14A4928</ClientId>
+		<VendorId>com.PEC</VendorId>
+		<VendorDescription>PEC, https://help.pec1.com/support/tickets/new</VendorDescription>
+	</AddIn>
+	<AddIn Type="Command">
+		<Text>RAA_Int_Mod4_Loading_Data_and_Elements_Challenge - Command 4</Text>
+		<Description>Some description for RAA_Int_Mod4_Loading_Data_and_Elements_Challenge</Description>
+		<Assembly>RAA_Int_Mod4_Loading_Data_and_Elements_Challenge.dll</Assembly>
+		<FullClassName>RAA_Int_Mod4_Loading_Data_and_Elements_Challenge.Command4</FullClassName>
+		<ClientId>E1D7BBDB-AF67-4B1A-AEBF-1E312DA4090F</ClientId>
+		<VendorId>com.PEC</VendorId>
+		<VendorDescription>PEC, https://help.pec1.com/support/tickets/new</VendorDescription>
+	</AddIn>
+</RevitAddIns>
